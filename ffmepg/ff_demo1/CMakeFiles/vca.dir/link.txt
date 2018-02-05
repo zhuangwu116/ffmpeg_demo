@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/vca.dir/vca.cpp.o  -o vca  -L/usr/local/lib -lopencv_core -lopencv_highgui -lopencv_imgproc -lglog -lzmq -lpthread -lmysqlcppconn -lprotobuf -lcurl -lavformat -lavcodec -lswscale -lswresample -lavutil -Wl,-rpath,/usr/local/lib 

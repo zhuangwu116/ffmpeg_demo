@@ -1,0 +1,3 @@
+/home/vca/C++_demo/ffmepg/ff_demo1/CMakeFiles/edit_cache.dir
+/home/vca/C++_demo/ffmepg/ff_demo1/CMakeFiles/rebuild_cache.dir
+/home/vca/C++_demo/ffmepg/ff_demo1/CMakeFiles/vca.dir

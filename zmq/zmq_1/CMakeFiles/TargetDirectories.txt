@@ -1,0 +1,4 @@
+/home/vca/C++_demo/zmq/zmq_1/CMakeFiles/rebuild_cache.dir
+/home/vca/C++_demo/zmq/zmq_1/CMakeFiles/edit_cache.dir
+/home/vca/C++_demo/zmq/zmq_1/CMakeFiles/client.dir
+/home/vca/C++_demo/zmq/zmq_1/CMakeFiles/server.dir
